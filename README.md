@@ -1,6 +1,6 @@
 # Arduino-Plantd
 
-Version 0.1.0
+* Version 0.1.0
 First setup to light either green, orange or red LED depending on the amount of wet soil the sensor detects.
 
 
@@ -8,6 +8,7 @@ First setup to light either green, orange or red LED depending on the amount of 
 * Soil Moisture meter YL-69 (including I/O board)
 * Arduino Uno/Arduino Nano
 * Green, Orange and Red LED
+* 3x resistor 200 ohm (depending on initial brightness of LEDS)
 * Switch (button)
 * 9V Battery
 
