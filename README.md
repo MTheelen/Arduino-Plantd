@@ -8,6 +8,7 @@ First setup to light either green, orange or red LED depending on the amount of 
 * Soil Moisture meter YL-69 (including I/O board)
 * Arduino Uno/Arduino Nano
 * Green, Orange and Red LED
-
+* Switch (button)
+* 9V Battery
 
 See also: https://randomnerdtutorials.com/guide-for-soil-moisture-sensor-yl-69-or-hl-69-with-the-arduino/
